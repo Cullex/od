@@ -1,0 +1,39 @@
+
+Caretaker name
+Caretaker contact
+Property Features
+Carrying Capacity
+Number of Rooms
+Number of Heads in Room
+Type of Property
+Preferred Gender
+
+[4:48 PM, 4/1/2020] Marvellous Nyongoro: Landlord Name
+Contact
+Email address
+Property Address
+
+[4:49 PM, 4/1/2020] Marvellous Nyongoro: Student Details
+Full Name
+Email
+Contact number
+Address
+Gender
+Emergency contact
+University
+Program and Level
+[4:50 PM, 4/1/2020] Marvellous Nyongoro: Agent Details
+
+Full Name
+Email
+Contact number
+Address
+Gender
+Emergency contact
+University
+Program and Level
+Banking details
+[4:51 PM, 4/1/2020] Prince Gurajena: Okay thanks boss
+[4:51 PM, 4/1/2020] Prince Gurajena: that will help
+[4:51 PM, 4/1/2020] Prince Gurajena: and a tenant ?
+[4:52 PM, 4/1/2020] Marvellous Nyongoro: Same as student, without the University
